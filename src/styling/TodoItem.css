@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    width: 100vh;
+    background-color: #87ceebd4;
+    margin: auto;
+}
+.form{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        gap: 0.75rem;
+       
+    }
+.input{
+    width: 75%;
+    padding: 0.25rem;
+    outline: none;
+}
+.heading{
+    text-align: center;
+}
+.submit-btn{
+    width: 5rem;
+    padding: 0.25rem;
+    background-color: #6495ed59;
+    border-radius: 0.5rem;
+}

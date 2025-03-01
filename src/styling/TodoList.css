@@ -1,0 +1,28 @@
+.todos-box{
+    width: 85%;
+}
+
+.list{
+    text-align: left;
+    display: flex;
+    justify-content: left;
+    margin-top: 1rem;
+    column-gap: 4rem;
+    
+}
+hr{
+    width: 85%;
+    
+}
+.btn{
+    padding: 0.25rem;
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+    background-color: #ff0000a3;
+    border: none;
+    width: 4rem;
+}
+.Empty-msg{
+    margin-left: 6rem;
+    margin-top: 1rem;
+}
